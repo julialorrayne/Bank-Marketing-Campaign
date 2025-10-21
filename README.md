@@ -16,6 +16,7 @@ According to the second bar chart, the successful outcome for previous campaign 
 
 ![customer segmentation - likelihood to subscribe](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/customer%20segmentation%20-%20likelihood%20to%20subscribe.png?raw=true)
 ![average subscription rate by cluster](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20subscription%20rate%20by%20cluster.png?raw=true)
+
 Cluster 2: Highly likelihood to subscribe.
 
 Average age: 41
@@ -51,6 +52,7 @@ Customized marketing strategies messages: . technicians and entrepreneurs: messa
 
 
 ![subscription rate by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/subscription%20rate%20by%20previous%20campaign.png?raw=true)
+
 The subscription rate is substantially higher (around 0.6 or 60%) for clients who subscribed in previous campaign. This indicates that prior successful engagement builds customer loyalty or confidence in subscribing again.
 
 ![average balance across months](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20balance%20across%20all%20months.png?raw=true)
