@@ -9,6 +9,7 @@ clients with secondary education have higher average annual balances
 
 ![success rate by previous campaign outcome](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/success%20rate%20by%20previous%20campaign%20outcome.png?raw=true)
 ![average previous calls by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20previous%20calls%20by%20previous%20campaign.png?raw=true)
+
 According to the first bar chart, the success rate for currrent campaign is high when previous campaign was a success, while the success rate is low when previous campaign was a failure. This indicates a strong relationship between sucessful past campaigns and likelihood of success in current campaign.
 Most of the clients that previously subscribed tend to subscribe again, which can be due to retention and loyalty. 
 According to the second bar chart, the successful outcome for previous campaign has a higher average number of previous calls compared to failure.
