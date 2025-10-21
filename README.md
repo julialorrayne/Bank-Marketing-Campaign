@@ -1,5 +1,14 @@
 # Bank-Marketing-Campaign
 
+## Objective
+Analyze a Portuguese bank’s marketing campaign data to understand **which customers subscribe to term deposits and why**, then translate findings into **actionable recommendations** for targeting, timing, and engagement.
+
+---
+
+**Target Question:** What factors (customer traits, timing, engagement) most influence subscription?
+
+---
+
 ![scatterplot - duration vs balance](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/scatterplot%20-%20duration%20vs%20balance.png?raw=true)
 Most clients have balances below $20000 and short call duration (less than 500 seconds, or 8 minutes).
 The number of clients that subscribed to a term deposit is higher for low-to-moderate balances(below 20k) and call duration above 1000 seconds(~16 minutes)
