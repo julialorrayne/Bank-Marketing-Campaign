@@ -131,6 +131,8 @@ Their behavior suggests high receptivity to personalized and follow-up marketing
 
 ---
 
+### Seasonal Patterns in Subscription Behavior
+
 ![subscription rates accross all months](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/subscription%20rates%20accross%20all%20months.png?raw=true)
 
 The line chart illustrates monthly variations in subscription rates, highlighting seasonal fluctuations throughout the year.  
