@@ -98,8 +98,8 @@ The line chart illustrates monthly variations in subscription rates, highlightin
 - Peaks in subscription activity occur in April (Month 4), May (Month 5), June (Month 6), and August (Month 8).  
 - Drops are observed in March, July, and September, suggesting periods of lower customer engagement or interest.  
 
-- Subscription behavior appears **seasonally influenced**, with stronger performance in **spring and mid-summer months**.  
-- Declines later in the year may indicate **campaign fatigue**, **reduced financial flexibility**, or **less marketing activity** during those months.  
+- Subscription behavior appears seasonally influenced, with stronger performance in spring and mid-summer months.  
+- Declines later in the year may indicate campaign fatigue, reduced financial flexibility, or less marketing activity during those months.  
 - **Recommendation:**  
   - Adjust marketing efforts by **intensifying outreach or offering targeted promotions** during low-performance months (e.g., March, July, September).  
   - Consider **seasonal campaign planning** to align promotional strategies with months showing historically higher engagement.  
