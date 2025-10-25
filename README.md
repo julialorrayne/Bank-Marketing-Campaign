@@ -1,9 +1,6 @@
 # Bank-Marketing-Campaign
 
 ## Background and Overview
-This project is based on dataset that represents historical data(from May 2008 to November 2010) regarding a direct marketing campaign of a Portuguese banking institution made through phone calls. This project uses descriptive and predictive analyses to to understand which tyoe of customers are more likely to subscribe to term deposits and why, then translate findings into actionable recommendations for targeting, timing, and engagement.
-The goal is to uncover key insights to enable personalized marketing strategies to enhance sales performance and ROI.
-
 This project analyzes a bank marketing dataset containing historical data from May 2008 to November 2010, collected from direct phone-call campaigns conducted by a Portuguese banking institution.  
 The primary objective is to identify which types of customers are most likely to subscribe to a term deposit and why, by applying both descriptive and predictive analytics techniques.
 
@@ -15,11 +12,6 @@ Ultimately, the goal is to help the bank optimize marketing resources, personali
 **Techniques:**  Exploratory Data Analysis (EDA) · Machine Learning Modeling · Correlation Analysis · Data Visualization · Clustering 
 
 ---
-
-**Target Question:** What factors (customer traits, timing, engagement) most influence subscription?
-
----
-
 
 ## Data Structure Overview
 The dataset contains 45,210 records, each representing the outcome of a direct marketing campaign conducted by a Portuguese banking institution.  
