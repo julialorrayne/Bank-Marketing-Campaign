@@ -164,9 +164,17 @@ These insights reinforce the importance of **personalized marketing strategies**
 
 ---
 
+### Impact of Previous Campaign Success on Current Subscription Rate  
 ![subscription rate by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/subscription%20rate%20by%20previous%20campaign.png?raw=true)
 
-The subscription rate is substantially higher (around 0.6 or 60%) for clients who subscribed in previous campaign. This indicates that prior successful engagement builds customer loyalty or confidence in subscribing again.
+**Findings:**:
+The subscription rate is substantially higher (60%) for clients who subscribed in previous campaign compared to those who did not (~10%). This suggests that clients who have subscribed before are **more confident or loyal**, increasing their likelihood of subscribing again.  
+
+- **Recommendation:**  
+  - Implement **personalized follow-ups** for previously successful clients to maintain engagement.  
+  - Use **past campaign success** as a predictor in future models for improved targeting and efficiency.  
+
+---
 
 ![average balance across months](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20balance%20across%20all%20months.png?raw=true)
 There are noticeable fluctuations, with peaks in certain months like April and December, and a dip around July. Actionable Insight: Higher average balances in certain months could indicate periods where customers are more financially stable and likely to subscribe. Campaigns could be timed to align with these months (e.g., April and December) to target high-balance customers.
