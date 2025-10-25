@@ -112,30 +112,9 @@ The line chart illustrates **monthly variations in subscription rates**, highlig
   - Adjust marketing efforts by **intensifying outreach or offering targeted promotions** during low-performance months (e.g., March, July, September).  
   - Consider **seasonal campaign planning** to align promotional strategies with months showing historically higher engagement.  
 
-![high probability segment summary](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/high%20probability%20segment%20summary.png?raw=true)
-
-171 clients are highly likely to subscribe.
-duration- Call duration mean: 656 seocnds. Clients with longer call durations are more likely to subscribe.
-previous- Number of previous contacts mean: 44. Clients who are more likely to subscribe tend to have more previous interactions.
-age - age mean: 41 years. The mean age represents midle-aged individuals.
-balance - account balance mean: $1,863. High probability clients have positive balances.
-month - month of contact median: most contacts occurred in month 6 or later.
-
-### 💡 Insight 6: High-Probability Subscriber Segment Summary  
-
-The summary below highlights clients with the **highest likelihood to subscribe** based on key variables such as call duration, previous contacts, age, balance, and month of contact.  
-
-**Key Findings:**  
-- **171 clients** are classified as highly likely to subscribe.  
-- **Call Duration:** Mean of **656 seconds** — longer calls correlate with higher subscription probability.  
-- **Previous Contacts:** Average of **2.3 interactions** — repeated engagement increases the likelihood of conversion.  
-- **Age:** Mean of **41 years** — middle-aged individuals are the most responsive segment.  
-- **Balance:** Mean of **$1,863** — high-probability clients generally maintain **positive account balances**.  
-- **Month of Contact:** Median = **Month 6 (June)** — most high-probability contacts occurred in **mid-year campaigns**.  
-
 ---
 
-#### 📊 High-Probability Segment Summary  
+#### High-Probability Segment Summary  
 
 | Metric | Duration (seconds) | Previous Contacts | Age (years) | Balance ($) | Month of Contact |
 |:--|--:|--:|--:|--:|--:|
@@ -148,12 +127,18 @@ The summary below highlights clients with the **highest likelihood to subscribe*
 | **75th Percentile** | 892 | 3 | 55 | 2,239 | 9 |
 | **Maximum** | 2,062 | 12 | 83 | 16,517 | 12 |
 
----
+The summary below highlights clients with the **highest likelihood to subscribe** based on key variables such as call duration, previous contacts, age, balance, and month of contact.  
+
+**Key Findings:**  
+- **171 clients** are classified as highly likely to subscribe.  
+- **Call Duration:** Mean of **656 seconds** — longer calls correlate with higher subscription probability.  
+- **Previous Contacts:** Average of **2.3 interactions** — repeated engagement increases the likelihood of conversion.  
+- **Age:** Mean of **41 years** — middle-aged individuals are the most responsive segment.  
+- **Balance:** Mean of **$1,863** — high-probability clients generally maintain **positive account balances**.  
+- **Month of Contact:** Median = **Month 6 (June)** — most high-probability contacts occurred in **mid-year campaigns**.  
 
 **Interpretation:**  
 High-probability subscribers are characterized by **longer conversations**, **moderate positive balances**, and **repeat interactions**, suggesting that personalized follow-ups with financially stable, mid-aged clients during mid-year campaigns can significantly increase term deposit conversions.
-
-
 
 ![subscription rate by job and education](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/subscription%20rate%20by%20job%20and%20education.png?raw=true)
 Individuals with tertiary education have higher subscription rates.
