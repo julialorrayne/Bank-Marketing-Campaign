@@ -72,6 +72,7 @@ Conversely, failed past campaigns correspond with low success rates and minimal 
 
 ![customer segmentation - likelihood to subscribe](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/customer%20segmentation%20-%20likelihood%20to%20subscribe.png?raw=true)
 
+
 ![average subscription rate by cluster](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20subscription%20rate%20by%20cluster.png?raw=true)
 
 The clustering model segmented clients by Age, Call Duration, and Account Balance to identify patterns in subscription behavior.  
@@ -84,9 +85,9 @@ The clustering model segmented clients by Age, Call Duration, and Account Balanc
 - **Average Contacts Before Campaign:** ≈ 1.2  
 - **Subscription Rate:** 0.96 (**very likely to subscribe**)  
 
-- Cluster 2 represents the most responsive and engaged customer group, characterized by moderate balances and longer call durations.  
-- Their behavior suggests high receptivity to personalized and follow-up marketing.  
-- **Recommendation:** Future campaigns should **prioritize Cluster 2 clients** using tailored communication to maximize conversion and ROI.  
+Cluster 2 represents the most responsive and engaged customer group, characterized by moderate balances and longer call durations.  
+Their behavior suggests high receptivity to personalized and follow-up marketing.  
+**Recommendation:** Future campaigns should **prioritize Cluster 2 clients** using tailored communication to maximize conversion and ROI.  
 
 ---
 
@@ -138,6 +139,8 @@ Individuals with tertiary education have higher subscription rates.
 Students exhibit the highest subscription rate, followed by retired individuals and those in management roles.
 Customized marketing strategies messages: . technicians and entrepreneurs: messaging emphasizing financial growth or stability.
 . unemployed and housemaid: campaigns offering financial inclusion or support.
+
+--- 
 
 ### Subscription Rate by Job and Education  
 This visualization compares **subscription rates** across different job categories while distinguishing between **secondary** and **tertiary education levels**.
