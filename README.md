@@ -54,13 +54,15 @@ Clients with only primary education might have limited earning potential, explai
 
 ![success rate by previous campaign outcome](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/success%20rate%20by%20previous%20campaign%20outcome.png?raw=true)
 
-![average previous calls by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20previous%20calls%20by%20previous%20campaign.png?raw=true)  
-
-The first chart compares success rates of the current campaign based on clients’ previous campaign outcomes, while the second shows the average number of calls associated with those outcomes.
+The  chart compares success rates of the current campaign based on clients’ previous campaign outcomes. 
 
 Clients who previously subscribed (success) exhibit a significantly higher success rate in the current campaign compared to those whose past outcomes were failures. This indicates a strong positive relationship between past and current campaign performance.
 
 Clients with a successful previous outcome tend to subscribe again, suggesting brand trust and retention effects.
+
+![average previous calls by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20previous%20calls%20by%20previous%20campaign.png?raw=true)  
+
+This chart shows the average number of calls associated with those outcomes.
 
 A higher average number of calls is observed among successful previous campaigns, implying that consistent engagement and follow-up communication may increase conversion likelihood.
 
