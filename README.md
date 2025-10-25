@@ -35,8 +35,11 @@ Data cleaning techniques included handling missing values and outliers, validati
 
 ## Key Insights  
 ![scatterplot - duration vs balance](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/scatterplot%20-%20duration%20vs%20balance.png?raw=true)
-Most clients have balances below $20000 and short call duration (less than 500 seconds, or 8 minutes).
-The number of clients that subscribed to a term deposit is higher for low-to-moderate balances(below 20k) and call duration above 1000 seconds(~16 minutes)
+Clients with longer call durations, particularly those lasting over 1,000 seconds (~16 minutes), show a higher likelihood of subscribing to a term deposit, especially within the low-to-moderate balance range (<$20k).
+
+Interpretation:
+
+Longer conversations appear to positively influence subscription rates, suggesting that extended engagement increases client conversion.
 
 ![total balance by education](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/total%20balance%20by%20education.png?raw=true)
 clients with secondary education have higher average annual balances
