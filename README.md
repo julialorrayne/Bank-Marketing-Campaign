@@ -46,7 +46,7 @@ Clients with secondary education exhibit the highest total balances, followed by
 
 The trend suggests that clients with moderate educational backgrounds (secondary level) may represent the largest customer segment or hold stronger financial engagement with the bank.
 
-Interestingly, despite tertiary-educated clients typically earning more, their aggregate balances are lower, possibly due to diversified investments or reduced reliance on savings accounts.
+Despite tertiary-educated clients typically earning more, their aggregate balances are lower, possibly due to diversified investments or reduced reliance on savings accounts.
 
 Clients with only primary education might have limited earning potential, explaining their comparatively lower balances.
 
