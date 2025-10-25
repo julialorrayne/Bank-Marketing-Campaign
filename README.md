@@ -85,6 +85,16 @@ Conversely, failed past campaigns correspond with low success rates and minimal 
 
 ---
 
+### Impact of Previous Campaign Success on Current Subscription Rate  
+![subscription rate by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/subscription%20rate%20by%20previous%20campaign.png?raw=true)
+
+The subscription rate is substantially higher (60%) for clients who subscribed in previous campaign compared to those who did not (~10%). This suggests that clients who have subscribed before are more confident or loyal, increasing their likelihood of subscribing again.  
+
+  - Implement **personalized follow-ups** for previously successful clients to maintain engagement.  
+  - Use **past campaign success** as a predictor in future models for improved targeting and efficiency.  
+
+---
+
 ![customer segmentation - likelihood to subscribe](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/customer%20segmentation%20-%20likelihood%20to%20subscribe.png?raw=true)
 
 
@@ -144,13 +154,3 @@ The summary above highlights clients with the highest likelihood to subscribe ba
 - Month of Contact: Median = Month 6 (June) — most high-probability contacts occurred in mid-year campaigns.  
 
 High-probability subscribers are characterized by longer conversations, moderate positive balances, and repeat interactions, suggesting that personalized follow-ups with financially stable, mid-aged clients during mid-year campaigns can significantly increase term deposit conversions.
-
----
-
-### Impact of Previous Campaign Success on Current Subscription Rate  
-![subscription rate by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/subscription%20rate%20by%20previous%20campaign.png?raw=true)
-
-The subscription rate is substantially higher (60%) for clients who subscribed in previous campaign compared to those who did not (~10%). This suggests that clients who have subscribed before are more confident or loyal, increasing their likelihood of subscribing again.  
-
-  - Implement **personalized follow-ups** for previously successful clients to maintain engagement.  
-  - Use **past campaign success** as a predictor in future models for improved targeting and efficiency.  
