@@ -34,6 +34,7 @@ Data cleaning techniques included handling missing values and outliers, validati
 ---
 
 ## Key Insights  
+
 ![scatterplot - duration vs balance](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/scatterplot%20-%20duration%20vs%20balance.png?raw=true)
 Clients with longer call durations, particularly those lasting over 1,000 seconds (~16 minutes), show a higher likelihood of subscribing to a term deposit, especially within the low-to-moderate balance range (<$20k).
 
