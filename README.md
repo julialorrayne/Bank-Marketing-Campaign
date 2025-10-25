@@ -38,19 +38,11 @@ Data cleaning techniques included handling missing values and outliers, validati
 ![scatterplot - duration vs balance](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/scatterplot%20-%20duration%20vs%20balance.png?raw=true)
 Clients with longer call durations, particularly those lasting over 1,000 seconds (~16 minutes), show a higher likelihood of subscribing to a term deposit, especially within the low-to-moderate balance range (<$20k).
 
----
-
-**Interpretation:**
-
 Longer conversations appear to positively influence subscription rates, suggesting that extended engagement increases client conversion.
 
 ![total balance by education](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/total%20balance%20by%20education.png?raw=true)
 
-**Insight:**
-
 Clients with secondary education exhibit the highest total balances, followed by those with tertiary education, while clients with primary education show the lowest balances overall.
-
-**Interpretation:**
 
 The trend suggests that clients with moderate educational backgrounds (secondary level) may represent the largest customer segment or hold stronger financial engagement with the bank.
 
@@ -66,11 +58,8 @@ Clients with only primary education might have limited earning potential, explai
 
 The first chart compares success rates of the current campaign based on clients’ previous campaign outcomes, while the second shows the average number of calls associated with those outcomes.
 
-**Insight:**
-
 Clients who previously subscribed (success) exhibit a significantly higher success rate in the current campaign compared to those whose past outcomes were failures. This indicates a strong positive relationship between past and current campaign performance.
 
-**Interpretation:**
 Clients with a successful previous outcome tend to subscribe again, suggesting brand trust and retention effects.
 
 A higher average number of calls is observed among successful previous campaigns, implying that consistent engagement and follow-up communication may increase conversion likelihood.
@@ -93,7 +82,6 @@ The clustering model segmented clients by **Age**, **Call Duration**, and **Acco
 - **Average Contacts Before Campaign:** ≈ 1.2  
 - **Subscription Rate:** 0.96 (**very likely to subscribe**)  
 
-**Interpretation:**  
 - Cluster 2 represents the **most responsive and engaged customer group**, characterized by **moderate balances** and **longer call durations**.  
 - Their behavior suggests **high receptivity to personalized and follow-up marketing**.  
 - **Recommendation:** Future campaigns should **prioritize Cluster 2 clients** using tailored communication to maximize conversion and ROI.  
@@ -102,18 +90,15 @@ The clustering model segmented clients by **Age**, **Call Duration**, and **Acco
 
 ![subscription rates accross all months](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/subscription%20rates%20accross%20all%20months.png?raw=true)
 
-**Insight:**
 Subscription Rates Across All Months (Line Chart) There are peaks in April (Month 4), May (Month 5), June (Month 6), and August(Month 8)
 There is a drop in Mach, July, September subscription rates, which might indicate that customers are less interested during the end of the year.
 Should adjust campaigns or consider offering seasonal promotions in the months with drops to increase subscriptions.
 
 The line chart illustrates **monthly variations in subscription rates**, highlighting seasonal fluctuations throughout the year.  
 
-**Findings:**  
 - **Peaks** in subscription activity occur in **April (Month 4)**, **May (Month 5)**, **June (Month 6)**, and **August (Month 8)**.  
 - **Drops** are observed in **March**, **July**, and **September**, suggesting periods of lower customer engagement or interest.  
 
-**Interpretation:**  
 - Subscription behavior appears **seasonally influenced**, with stronger performance in **spring and mid-summer months**.  
 - Declines later in the year may indicate **campaign fatigue**, **reduced financial flexibility**, or **less marketing activity** during those months.  
 - **Recommendation:**  
@@ -137,7 +122,6 @@ The line chart illustrates **monthly variations in subscription rates**, highlig
 
 The summary below highlights clients with the **highest likelihood to subscribe** based on key variables such as call duration, previous contacts, age, balance, and month of contact.  
 
-**Key Findings:**  
 - **171 clients** are classified as highly likely to subscribe.  
 - **Call Duration:** Mean of **656 seconds** — longer calls correlate with higher subscription probability.  
 - **Previous Contacts:** Average of **2.3 interactions** — repeated engagement increases the likelihood of conversion.  
@@ -145,7 +129,6 @@ The summary below highlights clients with the **highest likelihood to subscribe*
 - **Balance:** Mean of **$1,863** — high-probability clients generally maintain **positive account balances**.  
 - **Month of Contact:** Median = **Month 6 (June)** — most high-probability contacts occurred in **mid-year campaigns**.  
 
-**Interpretation:**  
 High-probability subscribers are characterized by **longer conversations**, **moderate positive balances**, and **repeat interactions**, suggesting that personalized follow-ups with financially stable, mid-aged clients during mid-year campaigns can significantly increase term deposit conversions.
 
 ![subscription rate by job and education](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/subscription%20rate%20by%20job%20and%20education.png?raw=true)
@@ -154,15 +137,13 @@ Students exhibit the highest subscription rate, followed by retired individuals 
 Customized marketing strategies messages: . technicians and entrepreneurs: messaging emphasizing financial growth or stability.
 . unemployed and housemaid: campaigns offering financial inclusion or support.
 
-### 💡 Insight 7: Subscription Rate by Job and Education  
+### Subscription Rate by Job and Education  
 This visualization compares **subscription rates** across different job categories while distinguishing between **secondary** and **tertiary education levels**.
 
-**Findings:**  
 - Individuals with **tertiary education** generally exhibit **higher subscription rates** across most job categories.  
 - **Students** show the **highest subscription rate overall**, followed by **retired individuals** and those in **management roles**.  
 - Jobs such as **technician** and **entrepreneur** display moderate subscription rates, whereas **unemployed** and **housemaid** categories record the lowest.  
 
-**Interpretation & Recommendations:**  
 - **Target students and retirees** with long-term financial growth products (e.g., term deposits or savings plans).  
 - **Management professionals** may respond well to messages emphasizing **wealth diversification and portfolio stability**.  
 - **Technicians and entrepreneurs** should be approached with marketing emphasizing **financial growth and security**.  
@@ -175,10 +156,8 @@ These insights reinforce the importance of **personalized marketing strategies**
 ### Impact of Previous Campaign Success on Current Subscription Rate  
 ![subscription rate by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/subscription%20rate%20by%20previous%20campaign.png?raw=true)
 
-**Findings:**:
-The subscription rate is substantially higher (60%) for clients who subscribed in previous campaign compared to those who did not (~10%). This suggests that clients who have subscribed before are **more confident or loyal**, increasing their likelihood of subscribing again.  
+The subscription rate is substantially higher (60%) for clients who subscribed in previous campaign compared to those who did not (~10%). This suggests that clients who have subscribed before are more confident or loyal, increasing their likelihood of subscribing again.  
 
-- **Recommendation:**  
   - Implement **personalized follow-ups** for previously successful clients to maintain engagement.  
   - Use **past campaign success** as a predictor in future models for improved targeting and efficiency.  
 
@@ -189,11 +168,9 @@ There are noticeable fluctuations, with peaks in certain months like April and D
 
 This chart illustrates **monthly fluctuations in clients’ average account balances**, providing insight into seasonal financial stability and potential campaign timing.  
 
-**Findings:**  
 - There are **noticeable peaks** in **April** and **December**, suggesting that customers tend to maintain **higher balances** during these months.  
 - A **dip is observed around July**, indicating a potential mid-year decline in financial activity.  
 
-**Interpretation & Recommendations:**  
 - Higher balances in certain months (e.g., **April and December**) may correspond to **periods of higher financial stability**, when customers are more likely to commit to term deposits.  
 - **Actionable Insight:** Align marketing campaigns or promotional offers with **high-balance months** to target financially ready customers.  
 - For **lower-balance periods (like July)**, consider offering **short-term incentives or flexible deposit options** to encourage participation.  
