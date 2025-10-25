@@ -93,14 +93,10 @@ Their behavior suggests high receptivity to personalized and follow-up marketing
 
 ![subscription rates accross all months](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/subscription%20rates%20accross%20all%20months.png?raw=true)
 
-Subscription Rates Across All Months (Line Chart) There are peaks in April (Month 4), May (Month 5), June (Month 6), and August(Month 8)
-There is a drop in Mach, July, September subscription rates, which might indicate that customers are less interested during the end of the year.
-Should adjust campaigns or consider offering seasonal promotions in the months with drops to increase subscriptions.
+The line chart illustrates monthly variations in subscription rates, highlighting seasonal fluctuations throughout the year.  
 
-The line chart illustrates **monthly variations in subscription rates**, highlighting seasonal fluctuations throughout the year.  
-
-- **Peaks** in subscription activity occur in **April (Month 4)**, **May (Month 5)**, **June (Month 6)**, and **August (Month 8)**.  
-- **Drops** are observed in **March**, **July**, and **September**, suggesting periods of lower customer engagement or interest.  
+- Peaks in subscription activity occur in April (Month 4), May (Month 5), June (Month 6), and August (Month 8).  
+- Drops are observed in March, July, and September, suggesting periods of lower customer engagement or interest.  
 
 - Subscription behavior appears **seasonally influenced**, with stronger performance in **spring and mid-summer months**.  
 - Declines later in the year may indicate **campaign fatigue**, **reduced financial flexibility**, or **less marketing activity** during those months.  
