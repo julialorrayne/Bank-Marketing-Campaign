@@ -130,12 +130,6 @@ The summary above highlights clients with the highest likelihood to subscribe ba
 
 High-probability subscribers are characterized by longer conversations, moderate positive balances, and repeat interactions, suggesting that personalized follow-ups with financially stable, mid-aged clients during mid-year campaigns can significantly increase term deposit conversions.
 
-![subscription rate by job and education](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/subscription%20rate%20by%20job%20and%20education.png?raw=true)
-Individuals with tertiary education have higher subscription rates.
-Students exhibit the highest subscription rate, followed by retired individuals and those in management roles.
-Customized marketing strategies messages: . technicians and entrepreneurs: messaging emphasizing financial growth or stability.
-. unemployed and housemaid: campaigns offering financial inclusion or support.
-
 --- 
 
 ### Subscription Rate by Job and Education  
