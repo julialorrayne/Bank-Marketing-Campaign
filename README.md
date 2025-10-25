@@ -37,12 +37,25 @@ Data cleaning techniques included handling missing values and outliers, validati
 ![scatterplot - duration vs balance](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/scatterplot%20-%20duration%20vs%20balance.png?raw=true)
 Clients with longer call durations, particularly those lasting over 1,000 seconds (~16 minutes), show a higher likelihood of subscribing to a term deposit, especially within the low-to-moderate balance range (<$20k).
 
+---
+
 Interpretation:
 
 Longer conversations appear to positively influence subscription rates, suggesting that extended engagement increases client conversion.
 
 ![total balance by education](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/total%20balance%20by%20education.png?raw=true)
-clients with secondary education have higher average annual balances
+Insight:
+Clients with secondary education exhibit the highest total balances, followed by those with tertiary education, while clients with primary education show the lowest balances overall.
+
+Interpretation:
+
+The trend suggests that clients with moderate educational backgrounds (secondary level) may represent the largest customer segment or hold stronger financial engagement with the bank.
+
+Interestingly, despite tertiary-educated clients typically earning more, their aggregate balances are lower, possibly due to diversified investments or reduced reliance on savings accounts.
+
+Clients with only primary education might have limited earning potential, explaining their comparatively lower balances.
+
+---
 
 ![success rate by previous campaign outcome](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/success%20rate%20by%20previous%20campaign%20outcome.png?raw=true)
 ![average previous calls by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20previous%20calls%20by%20previous%20campaign.png?raw=true)
