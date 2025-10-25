@@ -45,10 +45,10 @@ Longer conversations appear to positively influence subscription rates, suggesti
 
 ![total balance by education](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/total%20balance%20by%20education.png?raw=true)
 
-Insight:
+**Insight:**
 Clients with secondary education exhibit the highest total balances, followed by those with tertiary education, while clients with primary education show the lowest balances overall.
 
-Interpretation:
+**Interpretation:**
 
 The trend suggests that clients with moderate educational backgrounds (secondary level) may represent the largest customer segment or hold stronger financial engagement with the bank.
 
@@ -59,7 +59,24 @@ Clients with only primary education might have limited earning potential, explai
 ---
 
 ![success rate by previous campaign outcome](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/success%20rate%20by%20previous%20campaign%20outcome.png?raw=true)
-![average previous calls by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20previous%20calls%20by%20previous%20campaign.png?raw=true)
+![average previous calls by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20previous%20calls%20by%20previous%20campaign.png?raw=true)  
+
+The clustering model segmented clients by **Age**, **Call Duration**, and **Account Balance** to identify patterns in subscription behavior.  
+
+**Cluster 2 Profile — Highly Likely to Subscribe:**  
+- **Average Age:** 41  
+- **Average Balance:** ≈ $1,428  
+- **Average Call Duration:** ≈ 10 minutes  
+- **Average Calls During Campaign:** ≈ 2  
+- **Average Contacts Before Campaign:** ≈ 1.2  
+- **Subscription Rate:** 0.96 (**very likely to subscribe**)  
+
+**Interpretation:**  
+- Cluster 2 represents the **most responsive and engaged customer group**, characterized by **moderate balances** and **longer call durations**.  
+- Their behavior suggests **high receptivity to personalized and follow-up marketing**.  
+- **Recommendation:** Future campaigns should **prioritize Cluster 2 clients** using tailored communication to maximize conversion and ROI.  
+
+---
 
 The first chart compares success rates of the current campaign based on clients’ previous campaign outcomes, while the second shows the average number of calls associated with those outcomes.
 
