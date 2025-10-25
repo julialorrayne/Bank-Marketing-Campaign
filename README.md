@@ -52,6 +52,21 @@ Clients with only primary education might have limited earning potential, explai
 
 ---
 
+### Average Balance Trends Across Months  
+![average balance across months](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20balance%20across%20all%20months.png?raw=true)
+There are noticeable fluctuations, with peaks in certain months like April and December, and a dip around July. Actionable Insight: Higher average balances in certain months could indicate periods where customers are more financially stable and likely to subscribe. Campaigns could be timed to align with these months (e.g., April and December) to target high-balance customers.
+
+This chart illustrates **monthly fluctuations in clients’ average account balances**, providing insight into seasonal financial stability and potential campaign timing.  
+
+- There are **noticeable peaks** in **April** and **December**, suggesting that customers tend to maintain **higher balances** during these months.  
+- A **dip is observed around July**, indicating a potential mid-year decline in financial activity.  
+
+- Higher balances in certain months (e.g., **April and December**) may correspond to **periods of higher financial stability**, when customers are more likely to commit to term deposits.  
+- **Actionable Insight:** Align marketing campaigns or promotional offers with **high-balance months** to target financially ready customers.  
+- For **lower-balance periods (like July)**, consider offering **short-term incentives or flexible deposit options** to encourage participation.  
+
+---
+
 ![success rate by previous campaign outcome](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/success%20rate%20by%20previous%20campaign%20outcome.png?raw=true)
 
 The  chart compares success rates of the current campaign based on clients’ previous campaign outcomes. 
@@ -139,18 +154,3 @@ The subscription rate is substantially higher (60%) for clients who subscribed i
 
   - Implement **personalized follow-ups** for previously successful clients to maintain engagement.  
   - Use **past campaign success** as a predictor in future models for improved targeting and efficiency.  
-
----
-### Average Balance Trends Across Months  
-![average balance across months](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20balance%20across%20all%20months.png?raw=true)
-There are noticeable fluctuations, with peaks in certain months like April and December, and a dip around July. Actionable Insight: Higher average balances in certain months could indicate periods where customers are more financially stable and likely to subscribe. Campaigns could be timed to align with these months (e.g., April and December) to target high-balance customers.
-
-This chart illustrates **monthly fluctuations in clients’ average account balances**, providing insight into seasonal financial stability and potential campaign timing.  
-
-- There are **noticeable peaks** in **April** and **December**, suggesting that customers tend to maintain **higher balances** during these months.  
-- A **dip is observed around July**, indicating a potential mid-year decline in financial activity.  
-
-- Higher balances in certain months (e.g., **April and December**) may correspond to **periods of higher financial stability**, when customers are more likely to commit to term deposits.  
-- **Actionable Insight:** Align marketing campaigns or promotional offers with **high-balance months** to target financially ready customers.  
-- For **lower-balance periods (like July)**, consider offering **short-term incentives or flexible deposit options** to encourage participation.  
-
