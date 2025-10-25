@@ -61,23 +61,6 @@ Clients with only primary education might have limited earning potential, explai
 ![success rate by previous campaign outcome](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/success%20rate%20by%20previous%20campaign%20outcome.png?raw=true)
 ![average previous calls by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20previous%20calls%20by%20previous%20campaign.png?raw=true)  
 
-The clustering model segmented clients by **Age**, **Call Duration**, and **Account Balance** to identify patterns in subscription behavior.  
-
-**Cluster 2 Profile — Highly Likely to Subscribe:**  
-- **Average Age:** 41  
-- **Average Balance:** ≈ $1,428  
-- **Average Call Duration:** ≈ 10 minutes  
-- **Average Calls During Campaign:** ≈ 2  
-- **Average Contacts Before Campaign:** ≈ 1.2  
-- **Subscription Rate:** 0.96 (**very likely to subscribe**)  
-
-**Interpretation:**  
-- Cluster 2 represents the **most responsive and engaged customer group**, characterized by **moderate balances** and **longer call durations**.  
-- Their behavior suggests **high receptivity to personalized and follow-up marketing**.  
-- **Recommendation:** Future campaigns should **prioritize Cluster 2 clients** using tailored communication to maximize conversion and ROI.  
-
----
-
 The first chart compares success rates of the current campaign based on clients’ previous campaign outcomes, while the second shows the average number of calls associated with those outcomes.
 
 Insight:
@@ -94,17 +77,22 @@ Conversely, failed past campaigns correspond with low success rates and minimal 
 ![customer segmentation - likelihood to subscribe](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/customer%20segmentation%20-%20likelihood%20to%20subscribe.png?raw=true)
 ![average subscription rate by cluster](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20subscription%20rate%20by%20cluster.png?raw=true)
 
-Cluster 2: Highly likelihood to subscribe.
+The clustering model segmented clients by **Age**, **Call Duration**, and **Account Balance** to identify patterns in subscription behavior.  
 
-Average age: 41
-Balance: ~1428
-Call duration: ~10 mins
-Number of calls during campaign: ~2
-Number of contacts before this campaign: 1.22
-Subscription rate: 0.96(very likely to subscribe)
-The marketing campaign should focus on clients from Cluster 2.
+**Cluster 2 Profile — Highly Likely to Subscribe:**  
+- **Average Age:** 41  
+- **Average Balance:** ≈ $1,428  
+- **Average Call Duration:** ≈ 10 minutes  
+- **Average Calls During Campaign:** ≈ 2  
+- **Average Contacts Before Campaign:** ≈ 1.2  
+- **Subscription Rate:** 0.96 (**very likely to subscribe**)  
 
+**Interpretation:**  
+- Cluster 2 represents the **most responsive and engaged customer group**, characterized by **moderate balances** and **longer call durations**.  
+- Their behavior suggests **high receptivity to personalized and follow-up marketing**.  
+- **Recommendation:** Future campaigns should **prioritize Cluster 2 clients** using tailored communication to maximize conversion and ROI.  
 
+---
 
 ![subscription rates accross all months](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/subscription%20rates%20accross%20all%20months.png?raw=true)
 Subscription Rates Across All Months (Line Chart) There are peaks in April (Month 4), May (Month 5), June (Month 6), and August(Month 8)
