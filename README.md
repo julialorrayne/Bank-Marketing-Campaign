@@ -39,13 +39,14 @@ Clients with longer call durations, particularly those lasting over 1,000 second
 
 ---
 
-Interpretation:
+**Interpretation:**
 
 Longer conversations appear to positively influence subscription rates, suggesting that extended engagement increases client conversion.
 
 ![total balance by education](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/total%20balance%20by%20education.png?raw=true)
 
 **Insight:**
+
 Clients with secondary education exhibit the highest total balances, followed by those with tertiary education, while clients with primary education show the lowest balances overall.
 
 **Interpretation:**
@@ -59,22 +60,26 @@ Clients with only primary education might have limited earning potential, explai
 ---
 
 ![success rate by previous campaign outcome](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/success%20rate%20by%20previous%20campaign%20outcome.png?raw=true)
+
 ![average previous calls by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20previous%20calls%20by%20previous%20campaign.png?raw=true)  
 
 The first chart compares success rates of the current campaign based on clients’ previous campaign outcomes, while the second shows the average number of calls associated with those outcomes.
 
-Insight:
+**Insight:**
+
 Clients who previously subscribed (success) exhibit a significantly higher success rate in the current campaign compared to those whose past outcomes were failures. This indicates a strong positive relationship between past and current campaign performance.
 
-Interpretation:
-
+**Interpretation:**
 Clients with a successful previous outcome tend to subscribe again, suggesting brand trust and retention effects.
 
 A higher average number of calls is observed among successful previous campaigns, implying that consistent engagement and follow-up communication may increase conversion likelihood.
 
 Conversely, failed past campaigns correspond with low success rates and minimal call activity, highlighting the importance of maintaining customer relationship continuity across campaigns.
 
+---
+
 ![customer segmentation - likelihood to subscribe](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/customer%20segmentation%20-%20likelihood%20to%20subscribe.png?raw=true)
+
 ![average subscription rate by cluster](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20subscription%20rate%20by%20cluster.png?raw=true)
 
 The clustering model segmented clients by **Age**, **Call Duration**, and **Account Balance** to identify patterns in subscription behavior.  
@@ -95,6 +100,8 @@ The clustering model segmented clients by **Age**, **Call Duration**, and **Acco
 ---
 
 ![subscription rates accross all months](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/subscription%20rates%20accross%20all%20months.png?raw=true)
+
+**Insight:**
 Subscription Rates Across All Months (Line Chart) There are peaks in April (Month 4), May (Month 5), June (Month 6), and August(Month 8)
 There is a drop in Mach, July, September subscription rates, which might indicate that customers are less interested during the end of the year.
 Should adjust campaigns or consider offering seasonal promotions in the months with drops to increase subscriptions.
