@@ -1,11 +1,39 @@
 # Bank-Marketing-Campaign
 
-## Objective
-Analyze a Portuguese bank’s marketing campaign data to understand **which customers subscribe to term deposits and why**, then translate findings into **actionable recommendations** for targeting, timing, and engagement.
+## Background and Overview
+This project is based on dataset that represents historical data(from May 2008 to November 2010) regarding a direct marketing campaign of a Portuguese banking institution made through phone calls. This project uses descriptive and predictive analyses to to understand which tyoe of customers are more likely to subscribe to term deposits and why, then translate findings into actionable recommendations for targeting, timing, and engagement.
+The goal is to uncover key insights to enable personalized marketing strategies to enhance sales performance and ROI.
+
+This project analyzes a bank marketing dataset containing historical data from May 2008 to November 2010, collected from direct phone-call campaigns conducted by a Portuguese banking institution.  
+The primary objective is to identify which types of customers are most likely to subscribe to a term deposit and why, by applying both descriptive and predictive analytics techniques.
+
+Through this analysis, we uncover behavioral and financial patterns that influence client decisions, translating findings into data-driven recommendations for campaign targeting, timing, and engagement.  
+Ultimately, the goal is to help the bank optimize marketing resources, personalize outreach strategies, and increase ROI.
+
+**Tools Used:** Python (Pandas, NumPy, Scikit-learn, Plotly, Seaborn, Matplotlib)
+
+**Techniques:**  Exploratory Data Analysis (EDA) · Machine Learning Modeling · Correlation Analysis · Data Visualization · Clustering 
 
 ---
 
 **Target Question:** What factors (customer traits, timing, engagement) most influence subscription?
+
+---
+
+
+## Data Structure Overview
+The dataset contains 45,210 records, each representing the outcome of a direct marketing campaign conducted by a Portuguese banking institution.  
+Campaigns were performed through phone calls, and in many cases, multiple contacts with the same client were made to assess their interest in subscribing to a bank term deposit.
+
+The dataset includes detailed information across three main dimensions:
+
+- **Customer Demographics:** age, job type, marital status, education level  
+- **Financial Attributes:** account balance, loan status, housing loan, default history  
+- **Campaign Interactions:** call duration, number of contacts, previous campaign outcomes, and response to the current campaign (`y` = yes/no)
+
+Data cleaning techniques included handling missing values and outliers, validating data types, removing duplicates, and eliminating irrelevant variables to ensure data quality and consistency.
+
+> The original dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
 
 ---
 
