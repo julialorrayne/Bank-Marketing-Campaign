@@ -106,13 +106,18 @@ The subscription rate is substantially higher (60%) for clients who subscribed i
   - Use **past campaign success** as a predictor in future models for improved targeting and efficiency.  
 
 ---
-
+ ### Customer segmentation - likelihood to subscribe
+ 
 ![customer segmentation - likelihood to subscribe](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/customer%20segmentation%20-%20likelihood%20to%20subscribe.png?raw=true)
 
+The clustering model segmented clients by Age, Call Duration, and Account Balance to identify patterns in subscription behavior.  
+
+### Average subscription rate by cluster
 
 ![average subscription rate by cluster](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20subscription%20rate%20by%20cluster.png?raw=true)
 
-The clustering model segmented clients by Age, Call Duration, and Account Balance to identify patterns in subscription behavior.  
+Cluster 2 represents the most responsive and engaged customer group, characterized by moderate balances and longer call durations.  
+Their behavior suggests high receptivity to personalized and follow-up marketing.  
 
 **Cluster 2 Profile — Highly Likely to Subscribe:**  
 - **Average Age:** 41  
@@ -122,8 +127,6 @@ The clustering model segmented clients by Age, Call Duration, and Account Balanc
 - **Average Contacts Before Campaign:** ≈ 1.2  
 - **Subscription Rate:** 0.96 (**very likely to subscribe**)  
 
-Cluster 2 represents the most responsive and engaged customer group, characterized by moderate balances and longer call durations.  
-Their behavior suggests high receptivity to personalized and follow-up marketing.  
 **Recommendation:** Future campaigns should **prioritize Cluster 2 clients** using tailored communication to maximize conversion and ROI.  
 
 ---
