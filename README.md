@@ -35,10 +35,16 @@ Data cleaning techniques included handling missing values and outliers, validati
 
 ## Key Insights  
 
+### Call Duration and Balance Influence on Subscription Likelihood
+
 ![scatterplot - duration vs balance](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/scatterplot%20-%20duration%20vs%20balance.png?raw=true)
 Clients with longer call durations, particularly those lasting over 1,000 seconds (~16 minutes), show a higher likelihood of subscribing to a term deposit, especially within the low-to-moderate balance range (<$20k).
 
 Longer conversations appear to positively influence subscription rates, suggesting that extended engagement increases client conversion.
+
+---
+
+### Financial Behavior by Education Level
 
 ![total balance by education](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/total%20balance%20by%20education.png?raw=true)
 
@@ -67,6 +73,8 @@ This chart illustrates **monthly fluctuations in clients’ average account bala
 
 ---
 
+### Impact of Past Campaign Outcomes on Current Success Rates
+
 ![success rate by previous campaign outcome](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/success%20rate%20by%20previous%20campaign%20outcome.png?raw=true)
 
 The  chart compares success rates of the current campaign based on clients’ previous campaign outcomes. 
@@ -74,6 +82,10 @@ The  chart compares success rates of the current campaign based on clients’ pr
 Clients who previously subscribed (success) exhibit a significantly higher success rate in the current campaign compared to those whose past outcomes were failures. This indicates a strong positive relationship between past and current campaign performance.
 
 Clients with a successful previous outcome tend to subscribe again, suggesting brand trust and retention effects.
+
+---
+
+### Engagement Frequency and Its Impact on Campaign Success
 
 ![average previous calls by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20previous%20calls%20by%20previous%20campaign.png?raw=true)  
 
