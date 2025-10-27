@@ -45,7 +45,7 @@ Through exploratory and predictive analyses, the study highlights key customer e
 - **Targeted Marketing:** Prioritize clients with secondary or tertiary education and previous successful interactions for re-engagement campaigns.
 - **Retention and Loyalty Programs:** Develop ongoing communication and incentive programs for repeat subscribers to sustain long-term customer relationships.
 - **Seasonal Campaign Planning:** Concentrate marketing resources during high-response months (Apr–Jun, Aug) and introduce limited-time offers during low-activity periods to maintain interest.
-- **Customer Segmentation:** Focus marketing investment on Cluster 2 clients—middle-aged, financially stable individuals with prior campaign contact—identified as the most responsive segment.
+- **Customer Segmentation:** Focus marketing investment on most responsive segment: clients that are middle-aged, financially stable with prior campaign contact—identified. 
 
 ---
 
