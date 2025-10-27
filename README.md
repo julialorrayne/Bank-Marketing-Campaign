@@ -38,7 +38,7 @@ Through exploratory and predictive analyses, the study highlights key customer e
 - **Education Influence:** Customers with secondary education maintain the highest total balances, representing a strong mid-income target segment with financial stability.
 - **Customer Retention:** Clients who previously subscribed are up to six times more likely to subscribe again, emphasizing the importance of retargeting and relationship management.
 - **Seasonal Patterns:** Subscription peaks occur in April, May, June, and August, while engagement dips in March, July, and September. This suggests that campaign scheduling and promotional timing can optimize performance throughout the year.
-- **High-Propensity Segment:** Middle-aged clients (~41 years old) with moderate balances (~$1.4k) and 10-minute average call duration* form a *igh-likelihood group (96% subscription rate) when engaged effectively.
+- **High-Propensity Segment:** Middle-aged clients (~41 years old) with moderate balances (~$1.4k) and 10-minute average call duration form a high-likelihood group (96% subscription rate) when engaged effectively.
 
 **Strategic Recommendations**
 - **Engagement Optimization:** Train agents to maintain meaningful and personalized conversations to increase average call duration and conversion probability.
