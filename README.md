@@ -60,7 +60,7 @@ Longer conversations appear to positively influence subscription rates, suggesti
 
 ---
 
-### Financial Behavior by Education Level
+### Financial Balance by Education Level
 
 ![total balance by education](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/total%20balance%20by%20education.png?raw=true)
 
