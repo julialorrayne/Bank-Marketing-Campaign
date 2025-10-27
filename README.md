@@ -95,8 +95,6 @@ Clients who previously subscribed (success) exhibit a significantly higher subsc
 
 ![average previous calls by previous campaign](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/average%20previous%20calls%20by%20previous%20campaign.png?raw=true)  
 
-This chart shows the average number of calls associated with those outcomes.
-
 A higher average number of calls is observed among successful previous campaigns, implying that consistent engagement and follow-up communication may increase conversion likelihood.
 
 Conversely, failed past campaigns correspond with low success rates and minimal call activity, highlighting the importance of maintaining customer relationship continuity across campaigns.
