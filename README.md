@@ -107,9 +107,6 @@ Conversely, failed past campaigns correspond with low success rates and minimal 
 
 The subscription rate is substantially higher (60%) for clients who subscribed in previous campaign compared to those who did not (~10%). This suggests that clients who have subscribed before are more confident or loyal, increasing their likelihood of subscribing again.  
 
-  - Implement **personalized follow-ups** for previously successful clients to maintain engagement.  
-  - Use **past campaign success** as a predictor in future models for improved targeting and efficiency.  
-
 ---
  ### Customer segmentation - likelihood to subscribe
  
