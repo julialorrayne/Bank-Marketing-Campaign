@@ -87,11 +87,7 @@ There are noticeable fluctuations, with peaks in certain months like April and D
 
 ![success rate by previous campaign outcome](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/success%20rate%20by%20previous%20campaign%20outcome.png?raw=true)
 
-The  chart compares success rates of the current campaign based on clients’ previous campaign outcomes. 
-
-Clients who previously subscribed (success) exhibit a significantly higher success rate in the current campaign compared to those whose past outcomes were failures. This indicates a strong positive relationship between past and current campaign performance.
-
-Clients with a successful previous outcome tend to subscribe again, suggesting brand trust and retention effects.
+Clients who previously subscribed (success) exhibit a significantly higher subscription rate in the current campaign compared to those whose past outcomes were failures. This indicates a strong positive relationship between past and current campaign performance. Repeated subscriptions among previously subscribed clients suggest high brand trust, loyalty, and satisfaction, reinforcing the value of re-engaging warm leads over acquiring
 
 ---
 
