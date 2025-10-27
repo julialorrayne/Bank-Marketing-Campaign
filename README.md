@@ -21,7 +21,7 @@ The dataset includes detailed information across three main dimensions:
 
 - **Customer Demographics:** age, job type, marital status, education level  
 - **Financial Attributes:** account balance, loan status, housing loan, default history  
-- **Campaign Interactions:** call duration, number of contacts, previous campaign outcomes, and response to the current campaign (`y` = yes/no)
+- **Campaign Interactions:** call duration, number of contacts, previous campaign outcomes, and response to the current campaign 
 
 Data cleaning techniques included handling missing values and outliers, validating data types, removing duplicates, and eliminating irrelevant variables to ensure data quality and consistency.
 
