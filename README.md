@@ -129,8 +129,6 @@ Their behavior suggests high receptivity to personalized and follow-up marketing
 - **Average Contacts Before Campaign:** ≈ 1.2  
 - **Subscription Rate:** 0.96 (**very likely to subscribe**)  
 
-**Recommendation:** Future campaigns should **prioritize Cluster 2 clients** using tailored communication to maximize conversion and ROI.  
-
 ---
 
 ### Seasonal Patterns in Subscription Behavior
