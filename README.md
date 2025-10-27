@@ -142,9 +142,6 @@ The line chart illustrates monthly variations in subscription rates, highlightin
 
 - Subscription behavior appears seasonally influenced, with stronger performance in spring and mid-summer months.  
 - Declines later in the year may indicate campaign fatigue, reduced financial flexibility, or less marketing activity during those months.  
-- **Recommendation:**  
-  - Adjust marketing efforts by **intensifying outreach or offering targeted promotions** during low-performance months (e.g., March, July, September).  
-  - Consider **seasonal campaign planning** to align promotional strategies with months showing historically higher engagement.  
 
 ---
 
