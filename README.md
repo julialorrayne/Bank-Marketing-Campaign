@@ -4,7 +4,7 @@
 This project analyzes a bank marketing dataset containing historical data from May 2008 to November 2010, collected from direct phone-call campaigns conducted by a Portuguese banking institution.  
 The primary objective is to identify which types of customers are most likely to subscribe to a term deposit and why, by applying both descriptive and predictive analytics techniques.
 
-Through this analysis, we uncover behavioral and financial patterns that influence client decisions, translating findings into data-driven recommendations for campaign targeting, timing, and engagement.  
+This analysis uncovers behavioral and financial patterns that influence client decisions, translating findings into data-driven recommendations for campaign targeting, timing, and engagement.  
 Ultimately, the goal is to help the bank optimize marketing resources, personalize outreach strategies, and increase ROI.
 
 **Tools Used:** Python (Pandas, NumPy, Scikit-learn, Plotly, Seaborn, Matplotlib)
@@ -31,7 +31,7 @@ Data cleaning techniques included handling missing values and outliers, validati
 
 ## Executive Sumamary
 This project analyzes the Bank Marketing Campaign dataset to identify the behavioral, demographic, and financial factors influencing a client’s decision to subscribe to a term deposit.  
-Through exploratory and predictive analyses, the study highlights key customer engagement patterns, campaign performance trends, and actionable insights for targeted marketing and retention strategies.
+Through exploratory and predictive analyses, the analysis highlights key customer engagement patterns, campaign performance trends, and actionable insights for targeted marketing and retention strategies.
 
 **Key Findings**
 - **Call Duration Impact:** Clients with longer call durations (over 1,000 seconds) show a significantly higher likelihood of subscribing, confirming that extended conversations build trust and improve conversion rates.
