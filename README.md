@@ -108,7 +108,7 @@ Conversely, failed past campaigns correspond with low success rates and minimal 
 The subscription rate is substantially higher (60%) for clients who subscribed in previous campaign compared to those who did not (~10%). This suggests that clients who have subscribed before are more confident or loyal, increasing their likelihood of subscribing again.  
 
 ---
- ### Customer segmentation - likelihood to subscribe
+### Customer segmentation - likelihood to subscribe
  
 ![customer segmentation - likelihood to subscribe](https://github.com/julialorrayne/Projects-images/blob/main/Bank-Marketing-Campaign/customer%20segmentation%20-%20likelihood%20to%20subscribe.png?raw=true)
 
@@ -129,6 +129,27 @@ Their behavior suggests high receptivity to personalized and follow-up marketing
 - **Average Contacts Before Campaign:** ≈ 1.2  
 - **Subscription Rate:** 0.96 (**very likely to subscribe**)  
 
+These characteristics align closely with those observed among the 171 clients predicted to have the highest likelihood of subscription.
+
+| Metric | Duration (seconds) | Previous Contacts | Age (years) | Balance ($) | Month of Contact |
+|:--|--:|--:|--:|--:|--:|
+| **Count** | 173 | 173 | 173 | 173 | 173 |
+| **Mean** | **656** | **2.3** | **41** | **1,863** | **6.5** |
+| **Standard Deviation** | 437.4 | 2.6 | 15.5 | 2,528.4 | 3.2 |
+| **Minimum** | 152 | 0 | 18 | -887 | 1 |
+| **25th Percentile** | 301 | 0 | 32 | 281 | 4 |
+| **Median (50th)** | 475 | 2 | 42 | 926 | **6** |
+| **75th Percentile** | 892 | 3 | 55 | 2,239 | 9 |
+| **Maximum** | 2,062 | 12 | 83 | 16,517 | 12 |
+
+- Call Duration: Mean of 656 seconds — longer calls correlate with higher subscription probability.  
+- Previous Contacts: Average of 2.3 interactions — repeated engagement increases the likelihood of conversion.  
+- Age: Mean of 41 years — middle-aged individuals are the most responsive segment.  
+- Balance: Mean of $1,863 — high-probability clients generally maintain positive account balances.  
+- Month of Contact: Median = Month 6 (June) — most high-probability contacts occurred in mid-year campaigns.  
+
+High-probability subscribers are characterized by longer conversations, moderate positive balances, and repeat interactions, suggesting that personalized follow-ups with financially stable, mid-aged clients during mid-year campaigns can significantly increase term deposit conversions.
+
 ---
 
 ### Seasonal Patterns in Subscription Behavior
@@ -142,32 +163,6 @@ The line chart illustrates monthly variations in subscription rates, highlightin
 
 - Subscription behavior appears seasonally influenced, with stronger performance in spring and mid-summer months.  
 - Declines later in the year may indicate campaign fatigue, reduced financial flexibility, or less marketing activity during those months.  
-
----
-
-#### High-Probability Segment Summary  
-
-| Metric | Duration (seconds) | Previous Contacts | Age (years) | Balance ($) | Month of Contact |
-|:--|--:|--:|--:|--:|--:|
-| **Count** | 173 | 173 | 173 | 173 | 173 |
-| **Mean** | **656** | **2.3** | **41** | **1,863** | **6.5** |
-| **Standard Deviation** | 437.4 | 2.6 | 15.5 | 2,528.4 | 3.2 |
-| **Minimum** | 152 | 0 | 18 | -887 | 1 |
-| **25th Percentile** | 301 | 0 | 32 | 281 | 4 |
-| **Median (50th)** | 475 | 2 | 42 | 926 | **6** |
-| **75th Percentile** | 892 | 3 | 55 | 2,239 | 9 |
-| **Maximum** | 2,062 | 12 | 83 | 16,517 | 12 |
-
-The summary above highlights clients with the highest likelihood to subscribe based on key variables such as call duration, previous contacts, age, balance, and month of contact.  
-
-- 171 clients are classified as highly likely to subscribe.  
-- Call Duration: Mean of 656 seconds — longer calls correlate with higher subscription probability.  
-- Previous Contacts: Average of 2.3 interactions — repeated engagement increases the likelihood of conversion.  
-- Age: Mean of 41 years — middle-aged individuals are the most responsive segment.  
-- Balance: Mean of $1,863 — high-probability clients generally maintain positive account balances.  
-- Month of Contact: Median = Month 6 (June) — most high-probability contacts occurred in mid-year campaigns.  
-
-High-probability subscribers are characterized by longer conversations, moderate positive balances, and repeat interactions, suggesting that personalized follow-ups with financially stable, mid-aged clients during mid-year campaigns can significantly increase term deposit conversions.
 
 ---
 
